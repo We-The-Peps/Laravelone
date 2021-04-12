@@ -1,7 +1,7 @@
 # laravelfirst
-This is our Website Project based on Laravel with MySQL Database
+This is our Website Project based on Laravel with MySQL Database:
 Student Mangement System;
-Group Members 
+Group Members : 
 123700,
 121435,
 121543,
